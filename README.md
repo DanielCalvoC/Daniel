@@ -1,17 +1,10 @@
-# Daniel
+### Hi I'm Daniel!
 
-Hi there!wave
+· Living in Berlin and recently graduated from Spiced Academy as a certified Data Scientist.
 
-movie_camera Hi i'm Lalenia. Data Science enthusiast, living in Berlin.
+· Here you can find all my projects. 
 
-telescope Recently graduated from Spiced Academy as a certified Data Scientist.
+· I am working currently on Machine Learning / Data Analysis projects for my portfolio and looking for a job!
 
-seedling I’m currently learning NLP technics and am a participant at MITx's Statistics and Data Science MicroMasters® Program.
+· You can write me at danielcalvocosta@gmail.com or at my Linkedin account: https://www.linkedin.com/in/daniel-calvo-costa/
 
-dancers I’m looking to collaborate on Data Science projects related to the housing situation in Berlin, as well as with Covid related issues.
-
-computer I am working currently on Machine Learning projects for my portfolio and looking for a job!
-
-mailbox How to reach me: at laleniazourni@gmail.com or at my Linkedin account: www.linkedin.com/in/lalenia-katerina-zourni-892a955a.
-
-chart_with_upwards_trend You can find my projects from Spiced Academy here.
